@@ -9,3 +9,7 @@
 # developers when they have to make a pig latin translator:
 
 ![image](https://user-images.githubusercontent.com/67127399/141410656-e48047a7-e80e-4d83-a8b4-2b11544eefd1.png)
+
+# what? you can't read this?
+
+![image](https://user-images.githubusercontent.com/67127399/141410877-3c894148-4a01-40a4-bd8c-03353f548ef2.png)

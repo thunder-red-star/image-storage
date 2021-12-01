@@ -21,3 +21,7 @@
 ![image](https://user-images.githubusercontent.com/67127399/143135988-98f110f2-9e27-4d03-84da-00c0b6ce14a8.png)
 
 ![image](https://user-images.githubusercontent.com/67127399/143136132-c3344eec-4b3a-4b7e-a57e-efeb8a3a4299.png)
+
+# putting it in curlicued script isn't gonna stop the pain
+
+![image](https://user-images.githubusercontent.com/67127399/144161667-9dbab14a-d6dd-42b9-a9cc-f66ecb615530.png)

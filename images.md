@@ -29,3 +29,8 @@
 # processing
 
 ![image](https://user-images.githubusercontent.com/67127399/144334836-5e4b8615-10a6-4b60-b503-d1d268abd918.png)
+
+# i'm gonna close this app
+
+![image](https://user-images.githubusercontent.com/67127399/144513937-61decdfb-1063-40cd-b3d6-60fa61fb0b47.png)
+

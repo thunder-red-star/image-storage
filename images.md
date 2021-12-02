@@ -25,3 +25,7 @@
 # putting it in curlicued script isn't gonna stop the pain
 
 ![image](https://user-images.githubusercontent.com/67127399/144161667-9dbab14a-d6dd-42b9-a9cc-f66ecb615530.png)
+
+# processing
+
+![image](https://user-images.githubusercontent.com/67127399/144334836-5e4b8615-10a6-4b60-b503-d1d268abd918.png)

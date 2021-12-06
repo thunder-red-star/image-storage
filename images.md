@@ -34,3 +34,12 @@
 
 ![image](https://user-images.githubusercontent.com/67127399/144513937-61decdfb-1063-40cd-b3d6-60fa61fb0b47.png)
 
+# sanxion shooter assets
+
+![image](https://user-images.githubusercontent.com/67127399/144860049-84dc139a-3367-45ce-886f-b0240687fe5e.png)
+![image](https://user-images.githubusercontent.com/67127399/144860071-7445ef2c-83ae-4836-8a11-5012c3fc27eb.png)
+![image](https://user-images.githubusercontent.com/67127399/144860131-b9631807-d825-4aaf-b039-9c5d5dc75451.png)
+![image](https://user-images.githubusercontent.com/67127399/144860158-140a2ca2-5a31-4901-a567-9c39430dc004.png)
+![image](https://user-images.githubusercontent.com/67127399/144860184-18c7c7a8-1917-4ac9-a8e1-75a01f4cc38f.png)
+
+

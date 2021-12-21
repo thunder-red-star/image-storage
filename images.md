@@ -42,4 +42,7 @@
 ![image](https://user-images.githubusercontent.com/67127399/144860158-140a2ca2-5a31-4901-a567-9c39430dc004.png)
 ![image](https://user-images.githubusercontent.com/67127399/144860184-18c7c7a8-1917-4ac9-a8e1-75a01f4cc38f.png)
 
+# chatbot without context
+
+![image](https://user-images.githubusercontent.com/67127399/146862193-d3b3f453-18ed-40fb-9547-13b2ee030b22.png)
 

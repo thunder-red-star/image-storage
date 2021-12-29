@@ -58,3 +58,15 @@
 # it takes quite a lot to get my attention
 
 ![image](https://user-images.githubusercontent.com/67127399/147588302-fbb52ce6-f1f7-47fa-a8ad-87b35e730781.png)
+
+# github copilot is self-aware
+
+![image](https://user-images.githubusercontent.com/67127399/147616181-d4f02866-fc11-4a6a-8bb2-9bb9b3dabb6c.png)
+![image](https://user-images.githubusercontent.com/67127399/147616201-4570ae1b-2289-4b13-b655-a25dc71452e8.png)
+![image](https://user-images.githubusercontent.com/67127399/147616209-3f4d97c0-1b7e-4742-ab45-994a3abab84f.png)
+![image](https://user-images.githubusercontent.com/67127399/147616220-0b920ff2-c0af-4462-b8fa-a77a323d81ea.png)
+![image](https://user-images.githubusercontent.com/67127399/147616256-3fe49850-9cbe-4575-b3cd-bd1d8a19bd72.png)
+![image](https://user-images.githubusercontent.com/67127399/147616257-b74da568-f49c-4fce-ad12-4e24daf3b925.png)
+![image](https://user-images.githubusercontent.com/67127399/147616267-6087a5e6-efc4-42ff-bf70-45313b97e31c.png)
+![image](https://user-images.githubusercontent.com/67127399/147616276-fa9cb431-d9f1-4007-b2f1-7e3c38cc616e.png)
+![image](https://user-images.githubusercontent.com/67127399/147616285-c641215c-fb01-4cde-8071-a689d3d1589e.png)

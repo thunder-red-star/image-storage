@@ -77,6 +77,7 @@
 ![image](https://user-images.githubusercontent.com/67127399/147616409-6d76742c-7e7f-4a42-a89f-242d854e17c2.png)
 ![image](https://user-images.githubusercontent.com/67127399/147616418-6eea2341-e7b1-45f3-b0a6-9d7475324abc.png)
 ![image](https://user-images.githubusercontent.com/67127399/147616436-59336c2b-1e41-48c4-8a7d-af6209047c56.png)
+![image](https://user-images.githubusercontent.com/67127399/147616535-1d61fb35-3550-44f4-8f39-d4f37695d27f.png)
 
 # and sometimes isn't
 
@@ -84,4 +85,9 @@
 ![image](https://user-images.githubusercontent.com/67127399/147616393-95a275df-83af-468d-896e-c71b98be1240.png) (what?)
 ![image](https://user-images.githubusercontent.com/67127399/147616451-f2bf1286-aeb5-4e3b-95c8-f288f391bab0.png)
 ![image](https://user-images.githubusercontent.com/67127399/147616473-d28deb38-dd81-43be-a98e-ebc64a49b304.png)
+![image](https://user-images.githubusercontent.com/67127399/147616553-1ddb4641-d9d3-4790-97c8-b8e93365d0f4.png) (duh)
+![image](https://user-images.githubusercontent.com/67127399/147616625-91b77977-bf56-43c7-aca8-312293478a3a.png)
+![image](https://user-images.githubusercontent.com/67127399/147616654-96146632-95ef-4c8f-a861-d87e4debd093.png)
+![image](https://user-images.githubusercontent.com/67127399/147616668-668d3ee3-317a-442a-9e32-e55a96aa1e1e.png)
+![image](https://user-images.githubusercontent.com/67127399/147616877-1a80e723-3917-4a55-82dc-8f1bbc92efac.png) (this is really good defense)
 

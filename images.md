@@ -70,3 +70,18 @@
 ![image](https://user-images.githubusercontent.com/67127399/147616267-6087a5e6-efc4-42ff-bf70-45313b97e31c.png)
 ![image](https://user-images.githubusercontent.com/67127399/147616276-fa9cb431-d9f1-4007-b2f1-7e3c38cc616e.png)
 ![image](https://user-images.githubusercontent.com/67127399/147616285-c641215c-fb01-4cde-8071-a689d3d1589e.png)
+![image](https://user-images.githubusercontent.com/67127399/147616329-7e65e3bc-b9e5-4c3a-8200-f1f5152010b8.png)
+![image](https://user-images.githubusercontent.com/67127399/147616333-a150ebaa-2f71-4503-8fd6-248a05734b05.png)
+![image](https://user-images.githubusercontent.com/67127399/147616345-9d6f0efc-623f-4285-88d7-24cfd9433789.png)
+![image](https://user-images.githubusercontent.com/67127399/147616357-724001c5-fe09-4dd5-af72-ae710b85054a.png)
+![image](https://user-images.githubusercontent.com/67127399/147616409-6d76742c-7e7f-4a42-a89f-242d854e17c2.png)
+![image](https://user-images.githubusercontent.com/67127399/147616418-6eea2341-e7b1-45f3-b0a6-9d7475324abc.png)
+![image](https://user-images.githubusercontent.com/67127399/147616436-59336c2b-1e41-48c4-8a7d-af6209047c56.png)
+
+# and sometimes isn't
+
+![image](https://user-images.githubusercontent.com/67127399/147616371-1254c54d-ffab-4e28-95c1-205284d32d9e.png)
+![image](https://user-images.githubusercontent.com/67127399/147616393-95a275df-83af-468d-896e-c71b98be1240.png) (what?)
+![image](https://user-images.githubusercontent.com/67127399/147616451-f2bf1286-aeb5-4e3b-95c8-f288f391bab0.png)
+![image](https://user-images.githubusercontent.com/67127399/147616473-d28deb38-dd81-43be-a98e-ebc64a49b304.png)
+

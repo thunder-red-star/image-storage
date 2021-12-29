@@ -90,4 +90,6 @@
 ![image](https://user-images.githubusercontent.com/67127399/147616654-96146632-95ef-4c8f-a861-d87e4debd093.png)
 ![image](https://user-images.githubusercontent.com/67127399/147616668-668d3ee3-317a-442a-9e32-e55a96aa1e1e.png)
 ![image](https://user-images.githubusercontent.com/67127399/147616877-1a80e723-3917-4a55-82dc-8f1bbc92efac.png) (this is really good defense)
+![image](https://user-images.githubusercontent.com/67127399/147616956-fd553ef4-8b82-48a9-a6fc-c8030e93762c.png)
+![image](https://user-images.githubusercontent.com/67127399/147616993-d4cf8dcf-54f9-4530-bc6d-ca212c66a1e6.png) (google should hire me for inventing this)
 

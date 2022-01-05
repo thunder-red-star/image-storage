@@ -98,4 +98,11 @@
 ![image](https://user-images.githubusercontent.com/67127399/148095876-4aa07a06-ee30-43f4-9d12-fe3a7ed05a52.png)
 ![image](https://user-images.githubusercontent.com/67127399/148095791-ab0dc316-9874-4d09-9959-73173dc0efac.png)
 
+# that's a lot of terminals
 
+@DataSpell by JetBrains
+![image](https://user-images.githubusercontent.com/67127399/148151371-79e01a24-54fe-4226-a97f-c3855c7ed8c2.png)
+![image](https://user-images.githubusercontent.com/67127399/148151398-3ba93405-8002-44c3-9682-9a7d8e37ee86.png)
+![image](https://user-images.githubusercontent.com/67127399/148151428-6047d72d-2435-43e5-855f-ecc6fc47165d.png)
+![image](https://user-images.githubusercontent.com/67127399/148151439-bcfa36db-c128-4a09-a525-f36f4d98cd37.png)
+![image](https://user-images.githubusercontent.com/67127399/148151472-3b9536d3-b79d-436a-a6b0-6350f83d9061.png)

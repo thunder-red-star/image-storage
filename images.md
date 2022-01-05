@@ -100,7 +100,7 @@
 
 # that's a lot of terminals
 
-@DataSpell by JetBrains
+@DataSpell by JetBrains  
 ![image](https://user-images.githubusercontent.com/67127399/148151371-79e01a24-54fe-4226-a97f-c3855c7ed8c2.png)
 ![image](https://user-images.githubusercontent.com/67127399/148151398-3ba93405-8002-44c3-9682-9a7d8e37ee86.png)
 ![image](https://user-images.githubusercontent.com/67127399/148151428-6047d72d-2435-43e5-855f-ecc6fc47165d.png)

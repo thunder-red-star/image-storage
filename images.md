@@ -112,3 +112,42 @@
 
 ![image](https://user-images.githubusercontent.com/67127399/148692134-cf9fbecb-5b9d-4fb5-b53c-67d456b2e8c3.png)
 
+# auto "coder"
+
+not an image: 
+prompt: `Write code to say 'Hello World!'. The code should be written well and run fast. It should use the print() function.`
+output:
+```py
+joined(ctx, *, e: discord.Member  value="`Changes [member]\'s         0 potatoes <:sus:809828043244961863>"
+  with [title] as the member: discord.Member):
+ ctx.guild.channels:
+        else:
+       ctx.send(user.name +  quicker  for amt in already passive.")
+   value=f"{prefix}shelp",
+    all memory
+           print('ono     kinda bad..."
+     buy_this(ctx.author, item, 1, 'hi')
+ value="`Translates         "Stone  \nExample: `p!buy 1     ctx.send('You need to pick from      ) as af:
+ [amount]",
+   are value="`Begs server`",
+                  os.system('python    ctx.send("You cant do 'iron hoe'     would love      client.get_channel(c_id)
+
+
+     if negative poll(ctx,      await ctx.send(f'you can    try:
+  / year) ==          discord.Embed(
+       await i.delete()
+         :white_check_mark:')   
+
+
+@client.command()
+@commands.has_permissions(ban_members=True)
+async    await ctx.send(embed=embed)
+             value="`Digs      == 698218089010954481      elif member.id      name="YouTube channel",
+     ctx.author
+ error):
+   == 691009964570968144:
+      await ctx.channel.create_invite()
+    removed `{role.name}`            value="`Unassigns   file.close()
+
+```
+

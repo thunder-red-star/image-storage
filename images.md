@@ -114,7 +114,7 @@
 
 # auto "coder"
 
-not an image: 
+### not an image: 
 prompt: `Write code to say 'Hello World!'. The code should be written well and run fast. It should use the print() function.`
 output:
 ```py

@@ -2,6 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/67127399/141410317-0404b71a-0b12-47bc-b82a-fd85ef5e9f42.png)
 
+
 # if you don't use a gpu for your chatbot:
 
 ![image](https://user-images.githubusercontent.com/67127399/141410598-654b0aa5-2f1f-421d-a660-ff9d8c376253.png)
@@ -150,4 +151,8 @@ async    await ctx.send(embed=embed)
     removed `{role.name}`            value="`Unassigns   file.close()
 
 ```
+
+# erm
+
+![image](https://user-images.githubusercontent.com/67127399/149189532-f6732e8f-b811-4a31-8455-fb405118320e.png)
 

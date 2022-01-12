@@ -154,5 +154,4 @@ async    await ctx.send(embed=embed)
 
 # erm
 
-![image](https://user-images.githubusercontent.com/67127399/149189532-f6732e8f-b811-4a31-8455-fb405118320e.png)
-
+![image](https://user-images.githubusercontent.com/67127399/149189584-2ef248ef-d73e-4227-bedf-67657a318e21.png)

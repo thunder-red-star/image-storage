@@ -155,3 +155,7 @@ async    await ctx.send(embed=embed)
 # erm
 
 ![image](https://user-images.githubusercontent.com/67127399/149189649-9d9ba792-1442-406d-a1f0-04ddb2b2f802.png)
+
+# cursed midi file
+
+![image](https://user-images.githubusercontent.com/67127399/149642930-40c8141b-04b3-4528-8a83-67695e84cb48.png)

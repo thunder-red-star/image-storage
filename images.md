@@ -171,7 +171,7 @@ async    await ctx.send(embed=embed)
 ### set 2
 (sorry Github for uploading so many images, but this just proves my point!
 
-[image](https://user-images.githubusercontent.com/67127399/149644707-42c8f79d-0121-4cfb-a178-329e69ec69ec.png)
+![image](https://user-images.githubusercontent.com/67127399/149644707-42c8f79d-0121-4cfb-a178-329e69ec69ec.png)
 ![image](https://user-images.githubusercontent.com/67127399/149644712-07f0bc98-b2b7-4034-833b-9292dc10cd11.png)
 ![image](https://user-images.githubusercontent.com/67127399/149644713-dc731b32-a10e-44e6-83c8-4658d8f5be01.png)
 ![image](https://user-images.githubusercontent.com/67127399/149644717-bce5f91c-fd1d-4c80-ad07-1926f7686548.png)

@@ -169,15 +169,15 @@ async    await ctx.send(embed=embed)
 ![image](https://user-images.githubusercontent.com/67127399/149644524-5612154a-87db-4a62-a8ef-64c57d48a4b6.png)
 
 ### set 2
-(sorry Github for uploading so many images, but this just proves my point![image](https://user-images.githubusercontent.com/67127399/149644707-42c8f79d-0121-4cfb-a178-329e69ec69ec.png)
+(sorry Github for uploading so many images, but this just proves my point!
+
+[image](https://user-images.githubusercontent.com/67127399/149644707-42c8f79d-0121-4cfb-a178-329e69ec69ec.png)
 ![image](https://user-images.githubusercontent.com/67127399/149644712-07f0bc98-b2b7-4034-833b-9292dc10cd11.png)
 ![image](https://user-images.githubusercontent.com/67127399/149644713-dc731b32-a10e-44e6-83c8-4658d8f5be01.png)
 ![image](https://user-images.githubusercontent.com/67127399/149644717-bce5f91c-fd1d-4c80-ad07-1926f7686548.png)
 ![image](https://user-images.githubusercontent.com/67127399/149644719-30134022-f413-465d-b0d1-98304d531029.png)
 ![image](https://user-images.githubusercontent.com/67127399/149644721-28d85fbe-62a9-412b-91bc-e3aadc28abd1.png)
 ![image](https://user-images.githubusercontent.com/67127399/149644724-77121862-1611-4a3a-9257-b7f2426395d4.png)
-)
-
 ![image](https://user-images.githubusercontent.com/67127399/149644586-59642c00-65b4-4f7f-b3b3-6ce25a5d0598.png)
 ![image](https://user-images.githubusercontent.com/67127399/149644589-01653090-92fa-4a71-9d64-b39e471ebc44.png)
 ![image](https://user-images.githubusercontent.com/67127399/149644591-dee90fe6-2c6f-4d93-a8ed-8b3e54f394e5.png)
@@ -217,3 +217,17 @@ async    await ctx.send(embed=embed)
 ![image](https://user-images.githubusercontent.com/67127399/149644694-b7eb5efe-d2e4-45d1-a723-7031438d3e17.png)
 ![image](https://user-images.githubusercontent.com/67127399/149644698-cb54bed8-0783-4319-b2f1-7b68bfe6f325.png)
 ![image](https://user-images.githubusercontent.com/67127399/149644700-889d7e65-6efb-49e9-9a77-ff8e16ee6d3f.png)
+![image](https://user-images.githubusercontent.com/67127399/149644735-61203e43-276b-41c4-b21b-51a909f27f90.png)
+![image](https://user-images.githubusercontent.com/67127399/149644736-36c7cea0-be21-4d82-beb7-5e98dc8a83a3.png)
+![image](https://user-images.githubusercontent.com/67127399/149644740-93a3e57a-9997-4b1b-b063-028abc19fb4f.png)
+![image](https://user-images.githubusercontent.com/67127399/149644742-94bf0361-5d63-481a-8418-c921381a223e.png)
+![image](https://user-images.githubusercontent.com/67127399/149644746-add498b1-a446-4f58-b79b-e7dcf8155e97.png)
+![image](https://user-images.githubusercontent.com/67127399/149644747-3fcbca09-2505-41da-b141-7f301abac88e.png)
+![image](https://user-images.githubusercontent.com/67127399/149644749-69d6310c-3c42-4a77-be80-91fb125d6f39.png)
+![image](https://user-images.githubusercontent.com/67127399/149644760-a8455700-5ada-4d12-bf5f-50b386baa351.png)
+
+(after this point MSN crashed completely)
+
+![image](https://user-images.githubusercontent.com/67127399/149644780-c4794da2-01b2-4499-8943-594dedba8b5b.png)
+
+https://permanently-removed.invalid/

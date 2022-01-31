@@ -231,3 +231,8 @@ async    await ctx.send(embed=embed)
 ![image](https://user-images.githubusercontent.com/67127399/149644780-c4794da2-01b2-4499-8943-594dedba8b5b.png)
 
 https://permanently-removed.invalid/
+
+# google drive l
+
+![image](https://user-images.githubusercontent.com/67127399/151857735-110013ea-65e4-4036-b618-8a9b4338071d.png)
+![image](https://user-images.githubusercontent.com/67127399/151857738-888330a6-8839-4506-aca5-5495a80a8dee.png)

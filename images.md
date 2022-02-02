@@ -236,3 +236,10 @@ https://permanently-removed.invalid/
 
 ![image](https://user-images.githubusercontent.com/67127399/151857735-110013ea-65e4-4036-b618-8a9b4338071d.png)
 ![image](https://user-images.githubusercontent.com/67127399/151857738-888330a6-8839-4506-aca5-5495a80a8dee.png)
+
+# that's a lot of sshing
+
+![image](https://user-images.githubusercontent.com/67127399/152090314-5726940f-c584-4383-a9b8-5c563193d562.png)
+![image](https://user-images.githubusercontent.com/67127399/152090355-c39402f6-8504-4ffb-9710-73d904b69b31.png)
+![image](https://user-images.githubusercontent.com/67127399/152090379-5963145c-89c0-4bd3-986b-a53e9ce3b14e.png)
+

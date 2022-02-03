@@ -243,3 +243,6 @@ https://permanently-removed.invalid/
 ![image](https://user-images.githubusercontent.com/67127399/152090355-c39402f6-8504-4ffb-9710-73d904b69b31.png)
 ![image](https://user-images.githubusercontent.com/67127399/152090379-5963145c-89c0-4bd3-986b-a53e9ce3b14e.png)
 
+# ok google
+
+![image](https://user-images.githubusercontent.com/67127399/152275925-f3e1c613-44e9-4687-93f6-06a23d53c862.png)

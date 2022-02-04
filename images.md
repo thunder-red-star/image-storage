@@ -258,3 +258,8 @@ https://permanently-removed.invalid/
 
 ![image](https://user-images.githubusercontent.com/67127399/152473089-69fa9e4b-498c-4b9e-910d-aec6681fe815.png)
 ![image](https://user-images.githubusercontent.com/67127399/152473093-583cadbd-9912-4a18-842c-de98047aab7a.png)
+
+# custom fonts on *pizza*
+
+![image](https://user-images.githubusercontent.com/67127399/152474323-1387170f-bf50-4343-930b-93079015368d.png)
+

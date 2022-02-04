@@ -257,5 +257,4 @@ https://permanently-removed.invalid/
 ![image](https://user-images.githubusercontent.com/67127399/152473086-ca1022ed-099d-46ab-b7cc-2be691b68d61.png)
 
 ![image](https://user-images.githubusercontent.com/67127399/152473089-69fa9e4b-498c-4b9e-910d-aec6681fe815.png)
-![image](https://user-images.githubusercontent.com/67127399/152473091-017caa04-ecff-4daf-9b2a-25407790771d.png)
 ![image](https://user-images.githubusercontent.com/67127399/152473093-583cadbd-9912-4a18-842c-de98047aab7a.png)

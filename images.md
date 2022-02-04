@@ -259,6 +259,13 @@ https://permanently-removed.invalid/
 ![image](https://user-images.githubusercontent.com/67127399/152473089-69fa9e4b-498c-4b9e-910d-aec6681fe815.png)
 ![image](https://user-images.githubusercontent.com/67127399/152473093-583cadbd-9912-4a18-842c-de98047aab7a.png)
 
+![image](https://user-images.githubusercontent.com/67127399/152474586-4a3f9d2f-e819-412d-a2e8-004b6a6c73e1.png)
+
+## with cloudflare teams you get free warp+?
+
+![image](https://user-images.githubusercontent.com/67127399/152474579-b0ccbb8a-b4bd-49d1-8116-b047e7f3bb52.png)
+
+
 # custom fonts on *pizza*
 
 ![image](https://user-images.githubusercontent.com/67127399/152474323-1387170f-bf50-4343-930b-93079015368d.png)

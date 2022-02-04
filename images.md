@@ -246,3 +246,8 @@ https://permanently-removed.invalid/
 # ok google
 
 ![image](https://user-images.githubusercontent.com/67127399/152275925-f3e1c613-44e9-4687-93f6-06a23d53c862.png)
+
+# does this make me a good programmer? 
+
+![image](https://user-images.githubusercontent.com/67127399/152449950-4f7d9fcb-4a13-4383-b518-ec57854fb812.png)
+

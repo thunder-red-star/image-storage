@@ -270,3 +270,9 @@ https://permanently-removed.invalid/
 
 ![image](https://user-images.githubusercontent.com/67127399/152474323-1387170f-bf50-4343-930b-93079015368d.png)
 
+# nvidia-smi fail
+> how many watts was my gpu using again? what even *is* my gpu?
+
+![image](https://user-images.githubusercontent.com/67127399/152718735-f430ff55-e1d3-49ba-baa8-7285ccfc6aeb.png)
+![image](https://user-images.githubusercontent.com/67127399/152718739-b2af8eb1-0672-4437-ab79-39f1c22d91b8.png)
+

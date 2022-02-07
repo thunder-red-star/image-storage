@@ -276,3 +276,6 @@ https://permanently-removed.invalid/
 ![image](https://user-images.githubusercontent.com/67127399/152718735-f430ff55-e1d3-49ba-baa8-7285ccfc6aeb.png)
 ![image](https://user-images.githubusercontent.com/67127399/152718739-b2af8eb1-0672-4437-ab79-39f1c22d91b8.png)
 
+# nice one squoosh! compression means increasing file size by 621%!
+
+![image](https://user-images.githubusercontent.com/67127399/152721345-7ad286cc-c45d-4338-824d-15f0880330fd.png)

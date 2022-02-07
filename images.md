@@ -279,3 +279,7 @@ https://permanently-removed.invalid/
 # nice one squoosh! compression means increasing file size by 621%!
 
 ![image](https://user-images.githubusercontent.com/67127399/152721345-7ad286cc-c45d-4338-824d-15f0880330fd.png)
+
+# nvidia l amd w
+![image](https://user-images.githubusercontent.com/67127399/152788810-66e28fa1-d070-4f1f-9408-736c3bf941b4.png)
+

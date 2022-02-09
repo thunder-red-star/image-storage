@@ -287,3 +287,8 @@ https://permanently-removed.invalid/
 # ah codeproject
 
 ![image](https://user-images.githubusercontent.com/67127399/152791905-045443cd-969c-4a3d-913e-48b46cc7c8d0.png)
+
+# vcs abuse
+
+![image](https://user-images.githubusercontent.com/67127399/153108789-25f0cccc-c03a-4703-abf6-f166e7322e1b.png)
+

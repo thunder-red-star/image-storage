@@ -292,3 +292,7 @@ https://permanently-removed.invalid/
 
 ![image](https://user-images.githubusercontent.com/67127399/153108789-25f0cccc-c03a-4703-abf6-f166e7322e1b.png)
 
+# for future reference
+
+https://discord.com/channels/919253347779891240/926297082753589308/943595951661154384
+![image](https://user-images.githubusercontent.com/67127399/154345168-f8cc7b60-a551-423a-8c13-fe834e3f2ad7.png)

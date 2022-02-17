@@ -296,3 +296,7 @@ https://permanently-removed.invalid/
 
 https://discord.com/channels/919253347779891240/926297082753589308/943595951661154384
 ![image](https://user-images.githubusercontent.com/67127399/154345168-f8cc7b60-a551-423a-8c13-fe834e3f2ad7.png)
+
+# :O
+
+![image](https://user-images.githubusercontent.com/67127399/154411037-41cf5890-5868-4e99-95a9-94567b0937ff.png)

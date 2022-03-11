@@ -300,3 +300,9 @@ https://discord.com/channels/919253347779891240/926297082753589308/9435959516611
 # :O
 
 ![image](https://user-images.githubusercontent.com/67127399/154411037-41cf5890-5868-4e99-95a9-94567b0937ff.png)
+
+# my wget.racing results:
+`time wget -O /dev/null wget.racing`
+![image](https://user-images.githubusercontent.com/67127399/157802673-422c6952-0769-43f8-8e9a-9ef4d5a291c6.png)
+![image](https://user-images.githubusercontent.com/67127399/157802668-b04b17fd-2c8d-435c-88f7-63e0455d8e0c.png)
+

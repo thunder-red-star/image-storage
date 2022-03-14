@@ -306,3 +306,12 @@ https://discord.com/channels/919253347779891240/926297082753589308/9435959516611
 ![image](https://user-images.githubusercontent.com/67127399/157802673-422c6952-0769-43f8-8e9a-9ef4d5a291c6.png)
 ![image](https://user-images.githubusercontent.com/67127399/157802668-b04b17fd-2c8d-435c-88f7-63e0455d8e0c.png)
 
+# thunder oversimplified
+
+<img src="blob:chrome-untrusted://media-app/166a32ff-765c-4c0c-8066-7f33e85baa47" alt="thunderv2.png"/>![image](https://user-images.githubusercontent.com/67127399/158101804-b36ebca1-1b82-453f-a9af-516b50bb0dd9.png)
+
+# new stuy.world logo
+<img src="blob:chrome-untrusted://media-app/200a1e0f-dcbf-4f33-9e7e-1ce2cf249ace" alt="SW Logo 2.png"/>![image](https://user-images.githubusercontent.com/67127399/158101843-89bdcc3e-90c3-431f-a766-0759cdca09be.png)
+
+
+

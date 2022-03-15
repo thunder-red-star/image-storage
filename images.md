@@ -313,5 +313,7 @@ https://discord.com/channels/919253347779891240/926297082753589308/9435959516611
 # new stuy.world logo
 <img src="blob:chrome-untrusted://media-app/200a1e0f-dcbf-4f33-9e7e-1ce2cf249ace" alt="SW Logo 2.png"/>![image](https://user-images.githubusercontent.com/67127399/158101843-89bdcc3e-90c3-431f-a766-0759cdca09be.png)
 
+# epic email W
+![image](https://user-images.githubusercontent.com/67127399/158436669-7c45523c-ba2b-4071-a289-4d6000eeefe8.png)
 
 

@@ -316,4 +316,12 @@ https://discord.com/channels/919253347779891240/926297082753589308/9435959516611
 # epic email W
 ![image](https://user-images.githubusercontent.com/67127399/158436669-7c45523c-ba2b-4071-a289-4d6000eeefe8.png)
 
+# gotta love github and github devs
 
+> This package contains malicious code, that targets users with IP located in Russia or Belarus, and overwrites their files with a heart emoji.
+![image](https://user-images.githubusercontent.com/67127399/158724532-dc26a1aa-87e4-4136-a703-8351151b658d.png)
+
+# more github PR moments
+![image](https://user-images.githubusercontent.com/67127399/158724293-a06299df-70cd-4c6e-8f1c-e979dd73d678.png)
+![image](https://user-images.githubusercontent.com/67127399/158724296-92521230-2363-44c0-8283-f38b3988e419.png)
+![image](https://user-images.githubusercontent.com/67127399/158724298-4f7cf940-c762-46bc-bf82-5e4841c303cf.png)

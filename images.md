@@ -318,6 +318,7 @@ https://discord.com/channels/919253347779891240/926297082753589308/9435959516611
 
 # gotta love github and github devs
 
+https://nvd.nist.gov/vuln/detail/CVE-2022-23812
 > This package contains malicious code, that targets users with IP located in Russia or Belarus, and overwrites their files with a heart emoji.
 ![image](https://user-images.githubusercontent.com/67127399/158724532-dc26a1aa-87e4-4136-a703-8351151b658d.png)
 

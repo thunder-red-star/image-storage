@@ -1,7 +1,11 @@
+# IMPORTANT DISCLAIMER
+Any images here do not reflect my true views, *especially* the ones towards the bottom, about CVE-2022-23812 and Ukraine / Russia. I do not take sides here and am merely a bystander looking at some interesting usages of Github for politics.
+
+Political content and swearing may be ahead.
+
 # developers be like:
 
 ![image](https://user-images.githubusercontent.com/67127399/141410317-0404b71a-0b12-47bc-b82a-fd85ef5e9f42.png)
-
 
 # if you don't use a gpu for your chatbot:
 
@@ -326,3 +330,22 @@ https://nvd.nist.gov/vuln/detail/CVE-2022-23812
 ![image](https://user-images.githubusercontent.com/67127399/158724293-a06299df-70cd-4c6e-8f1c-e979dd73d678.png)
 ![image](https://user-images.githubusercontent.com/67127399/158724296-92521230-2363-44c0-8283-f38b3988e419.png)
 ![image](https://user-images.githubusercontent.com/67127399/158724298-4f7cf940-c762-46bc-bf82-5e4841c303cf.png)
+
+# even more github moments
+![image](https://user-images.githubusercontent.com/67127399/158724715-43bd8a89-bc99-4512-a0e3-6e9720ef94a7.png)
+> It's not us started the debate war, you fword betrayed the the open source community. you disgusting
+
+> But as a freeloader I feel we have no right to call someone a fword (whatever that means), or that he betrayed someone.
+![image](https://user-images.githubusercontent.com/67127399/158725014-342a4c70-d423-473c-9a9d-92a5a4df1a52.png)
+![image](https://user-images.githubusercontent.com/67127399/158725136-43ead072-ab18-4d3e-b4b2-9f4370c34da3.png)
+![image](https://user-images.githubusercontent.com/67127399/158725159-e906e0d8-8d3c-4437-9214-8d29f24f1b39.png)
+![image](https://user-images.githubusercontent.com/67127399/158725558-c364d1d1-80ee-4cae-9b20-ff5efab4fe59.png)
+![image](https://user-images.githubusercontent.com/67127399/158725862-301da441-9e26-4e4d-97a3-7d1007592543.png)
+> Is your brain a paste?
+![image](https://user-images.githubusercontent.com/67127399/158725942-18ba81ef-a27d-43f9-b63e-052e28ce3666.png)
+![image](https://user-images.githubusercontent.com/67127399/158727837-e52ce628-ba28-4ecb-8ea7-019fb7ec3a7f.png)
+![image](https://user-images.githubusercontent.com/67127399/158727917-f6005785-4ffc-4121-9f7d-724b6720edd9.png)
+![image](https://user-images.githubusercontent.com/67127399/158727994-2b03a394-065a-4a17-b4f2-ed66a58a8e3d.png)
+![image](https://user-images.githubusercontent.com/67127399/158728113-9b4fd128-bed9-488e-b518-8fca8cd69498.png)
+![image](https://user-images.githubusercontent.com/67127399/158728226-9973c194-db0f-41af-9338-8dda1ccbeb92.png)
+![image](https://user-images.githubusercontent.com/67127399/158728301-3cb441ca-194c-4b77-8ed8-1d9251a086e0.png)

@@ -385,3 +385,11 @@ A PR I got mixed into: **https://github.com/RIAEvangelist/node-ipc/pull/270**
 # even even even even more github moments
 ![image](https://user-images.githubusercontent.com/67127399/159010329-c2d99053-4334-4567-aa4e-c9a029ee1b74.png)
 https://github.com/IdealismIncinerator/node-ipc/blob/master/README.md
+![image](https://user-images.githubusercontent.com/67127399/159012076-350a2b41-edc2-4d32-87c4-a6852a257686.png)
+![image](https://user-images.githubusercontent.com/67127399/159012136-f05cde3c-38f9-4b27-a338-6d901410c53c.png)
+![image](https://user-images.githubusercontent.com/67127399/159012337-6ab67342-e70d-4034-9c80-94cd22681241.png)
+![image](https://user-images.githubusercontent.com/67127399/159012501-52dbb5ac-6875-4b61-967c-7b1e77e6aa0c.png)
+https://github.com/RIAEvangelist/node-ipc/issues/452
+![image](https://user-images.githubusercontent.com/67127399/159012935-d9b69fa0-ab65-42dd-ac04-47aebdbc986f.png)
+![image](https://user-images.githubusercontent.com/67127399/159013165-61a2efea-4c0a-480f-bc87-2013af00b523.png)
+https://github.com/RIAEvangelist/node-ipc/issues/417

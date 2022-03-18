@@ -393,3 +393,4 @@ https://github.com/RIAEvangelist/node-ipc/issues/452
 ![image](https://user-images.githubusercontent.com/67127399/159012935-d9b69fa0-ab65-42dd-ac04-47aebdbc986f.png)
 ![image](https://user-images.githubusercontent.com/67127399/159013165-61a2efea-4c0a-480f-bc87-2013af00b523.png)
 https://github.com/RIAEvangelist/node-ipc/issues/417
+![image](https://user-images.githubusercontent.com/67127399/159013599-422aab68-1d44-40d3-8f9c-89096078eafb.png)

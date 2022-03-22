@@ -401,3 +401,7 @@ https://github.com/RIAEvangelist/node-ipc/issues/417
 # chrome moment
 (in order: LaCrOs Chrome, Ash Chrome, Chromium Chrome)
 ![image](https://user-images.githubusercontent.com/67127399/159134253-5938b1f6-f2dc-486f-adca-c4fa3dd3826b.png)
+
+# we do a little trolling
+
+![image](https://user-images.githubusercontent.com/67127399/159544075-a7a9b264-9664-46a0-bf61-431cc1016968.png)

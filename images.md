@@ -405,3 +405,8 @@ https://github.com/RIAEvangelist/node-ipc/issues/417
 # we do a little trolling
 
 ![image](https://user-images.githubusercontent.com/67127399/159544075-a7a9b264-9664-46a0-bf61-431cc1016968.png)
+
+# ai amogus sus detector
+![image](https://user-images.githubusercontent.com/67127399/159546378-47939a8c-f4de-4def-8ec7-78922ae6d2d0.png)
+![image](https://user-images.githubusercontent.com/67127399/159546416-45810ece-7625-4002-9d04-98d347e6900e.png)
+

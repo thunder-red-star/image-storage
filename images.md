@@ -410,3 +410,6 @@ https://github.com/RIAEvangelist/node-ipc/issues/417
 ![image](https://user-images.githubusercontent.com/67127399/159546378-47939a8c-f4de-4def-8ec7-78922ae6d2d0.png)
 ![image](https://user-images.githubusercontent.com/67127399/159546416-45810ece-7625-4002-9d04-98d347e6900e.png)
 
+# how to confuse google translate 101
+![image](https://user-images.githubusercontent.com/67127399/159599100-1c9033a1-b206-4793-a81f-d89e32e30e24.png)
+![image](https://user-images.githubusercontent.com/67127399/159599128-6e63622b-b5b9-4359-8500-2a333a7699bc.png)

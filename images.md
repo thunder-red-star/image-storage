@@ -424,3 +424,9 @@ https://github.com/RIAEvangelist/node-ipc/issues/417
 ![image](https://user-images.githubusercontent.com/67127399/159605688-936275a4-905a-4a04-8437-b2404c8463fc.png)
 ![image](https://user-images.githubusercontent.com/67127399/159605737-1fdd9c86-21e4-4a97-923a-e459c2d437a0.png)
 
+# hot new jetbrains loaders compared to old ones
+![image](https://user-images.githubusercontent.com/67127399/159770069-fd17deaa-c3fb-4551-87d6-295e30deae4b.png)
+![image](https://user-images.githubusercontent.com/67127399/159770100-05f0682f-d553-4f87-ad4f-f8d7b8f8a3c7.png)
+
+![image](https://user-images.githubusercontent.com/67127399/159770137-aec9a086-c4ea-4465-96ab-363d2361a6df.png)
+![image](https://user-images.githubusercontent.com/67127399/159770156-39376ef8-8866-49b4-a5a9-bb127b996309.png)

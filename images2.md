@@ -3,3 +3,6 @@
 
 # lol
 ![image](https://user-images.githubusercontent.com/67127399/160401899-9c9e222f-02e0-4f47-9802-cb5248f9df4a.png)
+
+# for yeet, node.js version
+![image](https://user-images.githubusercontent.com/67127399/160403606-abe9df01-e97a-4b7b-bd97-debde56355b9.png)

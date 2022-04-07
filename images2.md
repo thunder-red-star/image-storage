@@ -12,3 +12,6 @@
 
 # e
 ![image](https://user-images.githubusercontent.com/67127399/160455608-8b926fc4-403a-4f47-a2cc-b8688eca764b.png)
+
+# they tried to rickroll me but they liberty mutualed me instead
+![image](https://user-images.githubusercontent.com/67127399/162266420-7366e7a5-0401-4b83-9cd6-02d601837059.png)

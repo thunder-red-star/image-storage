@@ -19,3 +19,6 @@ lol
 no steal pls
 
 ![intellij splash p1 (3)](https://user-images.githubusercontent.com/67127399/162596872-f7a5056d-cbc7-454c-9eaf-35db5df4624f.png)
+
+# my servers lmao
+![image](https://user-images.githubusercontent.com/67127399/163188427-f2040d32-fce5-47cf-9b2f-abde3fd1b018.png)

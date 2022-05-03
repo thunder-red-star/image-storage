@@ -22,3 +22,6 @@ no steal pls
 
 # my servers lmao
 ![image](https://user-images.githubusercontent.com/67127399/163188427-f2040d32-fce5-47cf-9b2f-abde3fd1b018.png)
+
+# what about chromeos
+![image](https://user-images.githubusercontent.com/67127399/166498333-d5799db8-6d27-448b-9e63-c6bfda907812.png)

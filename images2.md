@@ -18,3 +18,11 @@
 
 # oh wow that's really helpful webstorm
 ![image](https://user-images.githubusercontent.com/67127399/163285753-f8eec138-483c-4f83-b448-e619fa0e1b31.png)
+
+# some linuxlogos
+![image](https://user-images.githubusercontent.com/67127399/167970676-2a5a0f3d-4ec0-43a6-88db-73dae46de47b.png)
+![image](https://user-images.githubusercontent.com/67127399/167970681-9a85e0ae-28e9-499e-95f4-e6a0970143c8.png)
+![image](https://user-images.githubusercontent.com/67127399/167970699-ccb67cdc-af41-4cfd-a1df-6ced326fd45b.png)
+![image](https://user-images.githubusercontent.com/67127399/167970949-f943efa3-c5eb-432b-a8b7-4edfcec9b7f5.png)
+![image](https://user-images.githubusercontent.com/67127399/167971740-3433a4dc-1a18-4794-b02a-fdb737b01c48.png)
+![image](https://user-images.githubusercontent.com/67127399/167971891-c15e37d9-6082-4a16-9315-67f0a9aa97ef.png)

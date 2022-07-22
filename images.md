@@ -431,3 +431,7 @@ https://github.com/RIAEvangelist/node-ipc/issues/417
 ![image](https://user-images.githubusercontent.com/67127399/159770137-aec9a086-c4ea-4465-96ab-363d2361a6df.png)
 ![image](https://user-images.githubusercontent.com/67127399/159770156-39376ef8-8866-49b4-a5a9-bb127b996309.png)
 ![image](https://user-images.githubusercontent.com/67127399/160012563-e4ecf5f2-d252-4ad0-a2c8-c501d94228fe.png)
+
+# openai gpt3 editing
+![image](https://user-images.githubusercontent.com/67127399/180339382-e9c0b43c-da48-4ca8-9d8c-d123ea5ae5fc.png)
+![image](https://user-images.githubusercontent.com/67127399/180339384-50dd3304-74b8-44d8-80e3-be57f04014e3.png)
